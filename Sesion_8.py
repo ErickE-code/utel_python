@@ -8,7 +8,7 @@ emojis =  {"feliz": "😃"
            , "aplauso": "👏"
            , "reir": "😁"
            , "fuego": "🔥"
-           , "roto": "💔"x
+           , "roto": "💔"
            , "pensando": "🤔"
            , "maravillado": "🤩"
            , "aburrido": "🙄"
